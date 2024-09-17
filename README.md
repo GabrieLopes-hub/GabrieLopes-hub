@@ -7,7 +7,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielopes-hub&show_icons=true&theme=algolia)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielopes-hub&layout=compact&theme=algolia)](https://github.com/gabrielopes-hub/github-readme-stats)
 <img align="right" height="200" src="https://i.gifer.com/3F3F.gif" />
-<img align="right" height="200" src="https://i.gifer.com/14Vq.gif" />
+<img align="right" height="150" src="https://i.gifer.com/14Vq.gif" />
 #### Linguas aprendidas ate agora:
 <div>
   <img align="center" alt="GabrieLopes-hub-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
