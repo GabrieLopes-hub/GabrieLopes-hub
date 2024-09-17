@@ -8,9 +8,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielopes-hub&layout=compact&theme=algolia)](https://github.com/gabrielopes-hub/github-readme-stats)
 #### Linguas aprendidas ate agora:
 <div>
-  <img align="center" alt="GustavoSartorelli-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="GustavoSartorelli-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="GustavoSartorelli-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="GabrieLopes-hub-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="GabrieLopes-hub-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="GabrieLopes-hub-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-plain-wordmark.svg" />
 </div>
 
 #### Onde você pode me encontrar:
