@@ -1,7 +1,7 @@
 ## Olá eu sou Gabriel Lopes 👋
 
-##### 🌱 Aluno do Senai
-##### 💻 Estudando Desenvolvimento de sistemas
+##### 🌱 Aluno da UNIP
+##### 💻 Estudando Analise e Desenvolvimento de sistemas
 ##### 🎈 Data de nascimento: 11/11/2007
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielopes-hub&show_icons=true&theme=algolia)
