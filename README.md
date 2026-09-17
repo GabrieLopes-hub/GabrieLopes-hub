@@ -4,8 +4,7 @@
 ##### 💻 Estudando Analise e Desenvolvimento de sistemas
 ##### 🎈 Data de nascimento: 11/11/2007
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielopes-hub&show_icons=true&theme=algolia)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielopes-hub&layout=compact&theme=algolia)](https://github.com/gabrielopes-hub/github-readme-stats)
+
 <img align="right" height="180" src="https://i.gifer.com/WnES.gif" />
 #### Um pouco do que aprendi ate agora:
 <div>
